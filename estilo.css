@@ -1,0 +1,21 @@
+#bloco1{
+    border: 3px solid rgb(255, 255, 0); 
+    background:rgb(252, 195, 11); 
+    width: 561px;
+    position: fixed;
+    z-index: 20;
+}
+ #bloco2{
+    width: 250px;
+    position: relative;
+    z-index: 30;
+}
+
+ #bloco3{
+    width: 250px;
+    
+}
+
+p{
+    text-align: center;
+}
