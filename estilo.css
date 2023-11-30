@@ -1,11 +1,16 @@
+html{
+    scroll-padding-top: 180px;
+}
+
 #bloco1 {
 
     padding: 30px;
     text-align: center;
-    margin-bottom: 50px;
     background-color: #8dc549;
-    position: relative;
+    position: fixed;
     height: 100px;
+    width: 100%;
+    margin-top: -200px;
 
 }
 
@@ -47,6 +52,7 @@ body {
     z-index: 30;
     font-size: 19px;
     line-height: 29px;
+    margin-top: 200px;
 }
 
 .video {
@@ -63,4 +69,3 @@ body {
 .imagem1 {
     margin-left: 50px;
 }
-
